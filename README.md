@@ -52,4 +52,4 @@ to this shitty story because as we all know spiders can't really resist getting 
 ### TL;DR
 Two imbeciles have panic attack because moderately large spider is in the room.
 
-[<< previous](https://www.google.com "Wallid") || Wolf ||
+[<< previous](https://docs.google.com/spreadsheets/d/151MDGAG9LkK8EbX79d6JBmxK2eiimK75JzIeG6krxhA/edit?usp=sharing "Wallid") || Wolf ||
