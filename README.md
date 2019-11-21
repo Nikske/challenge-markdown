@@ -32,7 +32,7 @@ I like to think that I'm a pretty critical person so if you're ever unsure about
 looks or works, feel free to talk to me.
 
 ## A funny story
-Some years back my parents took me and a friend to somewhere in france I can't quite remember the name of,
+Some years back my parents took me and a friend to somewhere in France I can't quite remember the name of,
 either way it was hot there so it was probably somewhere in the southern area.
 
 One night my friend already went up to our room to get some shut-eye while I remained downstairs to finish watching
@@ -52,4 +52,4 @@ to this shitty story because as we all know spiders can't really resist getting 
 ### TL;DR
 Two imbeciles have panic attack because moderately large spider is in the room.
 
-[<< previous](https://docs.google.com/spreadsheets/d/151MDGAG9LkK8EbX79d6JBmxK2eiimK75JzIeG6krxhA/edit?usp=sharing "Wallid") || Wolf ||
+[<< previous](https://github.com/walid1209/challenge-markdown "Wallid") || Wolf || [we did it boys](https://www.youtube.com/watch?v=rQ6erOT3xRk)
