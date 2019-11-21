@@ -1,5 +1,5 @@
 # Wolf Van den dries
-_aadddd_
+_A fool thinks himself wise, but a wise man knows he's a fool._
 
 ![photo of myself](https://lh3.googleusercontent.com/pV0Z-owreo-0XYB0JPX0zM8FyXdX6sj2YHs8AHhHp-hvI44roKmhVdek5rOf341bIprzwNm7JL4wapAdU2EXwOEDuSX6cFrhFxIjkgNW7K7GC4ZT8ktUJ72xUpokAHsTns7YsNetR99Crnt_jlMYIJbwToZmLvLVLgtB3y5q7L3OFAKVmoMUFdM67clB15hV2KgfIFE5RfRkWOsGI4gJGsp0O-kJzaAsJ-lh_jy0lAcHxChCH9LAbqt51cLdUkK01LjSlG5-ScNzZ7oGozVA57arHRaT0nGhsanej1b55OTZjdGagSZ_KZXH73p-bcanen3HeGkGJzGj21v7jkN5J1vnsSvSHBSrcIJRQaSU6tZ-mdpttigwbFovDWM0GlKeIVHpVp8_UUwqxnoDYXQ1bWUUaR_tMmFygxYfqTsRtDwIXe1OoOR1OM1Zp2T1g_pmunNMkiMPxOEVSiGvzhEbTMITYwv90U2Z5hvl12ZaYEvoyxx0IzVj3bPSRQ_yZWj5YxTXxUIrjFVfXG14QmWWmqbf4PDshO9OUsMRd4-w5k8rh5KXFwLnhsyqfO6FQv5Yff3bhCTtmoEAPyPUhDjxbpqFgmNyo7JrMKU0mvIDpNEtzgMgpKFuBPQXXDTH6SnXiBjr38Jb08dfBSYrCdD6mPfHAn6TMQIcaEbEEnR3OiNhoy2S4ZMcSMKTvAORG-HIzPwc0Dv3rXyPg44YRrshDM8QtwZVwzAR5NXSkU37rilUyVc=w245-h325-no "lelijk kind")
 
@@ -9,7 +9,7 @@ _aadddd_
 | Gender             | Male                                                                  |
 | Favourite colour   | Cyan                                                                  |
 | Favourite food     | Pasta Puttanesca                                                                      |
-| Pineapple on pizza | [ ] I'd rather not but I'm not going to get super offended if you do. |
+| Pineapple on pizza | <ul><li>[ ]</li></ul>I'd rather not but I'm not going to get super offended if you do. |
 
 ## Hobbies
 * Video games
@@ -26,7 +26,7 @@ _aadddd_
     * ...
 
 ## You can always count on me when
-As long as I understand something I'm always happy to help.
+As long as I understand something enough I'm always happy to help.
 
 I like to think that I'm a pretty critical person so if you're ever unsure about how something
 looks or works, feel free to talk to me.
