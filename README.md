@@ -9,7 +9,7 @@ _A fool thinks himself wise, but a wise man knows he's a fool._
 | Gender             | Male                                                                  |
 | Favourite colour   | Cyan                                                                  |
 | Favourite food     | Pasta Puttanesca                                                      |
-| Pineapple on pizza | - [ ] |
+| Pineapple on pizza |- [ ] I'd rather not but I'm not going to get super offended if you do. |
 
 ## Hobbies
 * Video games
